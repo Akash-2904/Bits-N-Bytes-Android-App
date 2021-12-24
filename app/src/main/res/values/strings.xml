@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">BitsnBytes App</string>
+    <string name="app_name">Bits n Bytes</string>
+    <string name="login">Sign In</string>
+    <string name="register">Sign Up</string>
+    <string name="phone">Enter Phone No.</string>
+    <string name="pwd">Enter Password</string>
+    <string name="cpwd">Confirm Password</string>
+    <string name="fpwd">Forget Password?</string>
+
 </resources>
